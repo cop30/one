@@ -5,8 +5,6 @@ import java.security.SecureRandom;
 
 import java.util.Arrays;
 
-/// @author cop30
-///
 public class hello {
 
     public static void main(String[] args) {
@@ -27,5 +25,6 @@ public class hello {
 
         Arrays.sort(myArray);
 
-        System.out.println(Arrays.toString (myArray));
-    } }
+        System.out.println(Arrays.toString(myArray));
+    }
+}
